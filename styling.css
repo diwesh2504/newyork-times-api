@@ -1,0 +1,29 @@
+.stories-main{
+    display:grid;
+    margin-top: 10px;
+    grid-template-columns:50% 50%;
+    grid-column-gap: 10px;
+    grid-row-gap: 10px;
+}
+.title{
+    font-family: 'Playfair Display', serif;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+}
+.details{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 15px;
+    
+    font-weight: bold;
+}
+.article{
+    font-family: 'Tajawal', sans-serif;
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.abstract{
+    font-family: 'Scheherazade', serif;
+    font-size:20px;
+    text-align: left;
+}
